@@ -1,0 +1,6 @@
+Elementos iniciales
+[84] [71] [20] [58] [46] 
+Elementos ordenados
+[20] [46] [58] [71] [84] 
+El menor es 20 y se repite : 1 veces
+El mayor es 84 y se repite : 1 veces

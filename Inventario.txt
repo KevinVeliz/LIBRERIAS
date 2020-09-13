@@ -1,0 +1,7 @@
+*******   DATOS DEL PROVEEDOR   *******
+Código    Nombre    Ciudad      Teléfono
+ABC001     Favorita    Quito      0995644186
+
+
+
+*******   DATOS DEL Producto   *******
